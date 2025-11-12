@@ -3,16 +3,22 @@
 I created 4 Shader graphs, each with the following effect:
 
 ## 2-Color Toon Shader
+
 ![](a1.png)
 
 ## 3-Color Toon Shader
+
 ![](a2.png)
 
 ## 3-Color Toon Shader with Smoothness Parameter
+
 ![](a3.png)
 
 ## Stylized Shadow Toon Shader
+
 ![](a4.png)
+
+![](a5.png)
 
 # Assignment Description
 Let's practice adding stylization to a 3D scene using Unity's shader graph!
