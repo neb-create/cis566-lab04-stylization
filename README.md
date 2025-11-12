@@ -2,20 +2,16 @@
 
 I created 4 Shader graphs, each with the following effect:
 
-Shader 1 - 2-Color Toon
-
+## 2-Color Toon Shader
 ![](a1.png)
 
-Shader 2 - 3-Color Toon
-
+## 3-Color Toon Shader
 ![](a2.png)
 
-Shader 3 - 3-Color Toon with smoothness parameter
-
+## 3-Color Toon Shader with Smoothness Parameter
 ![](a3.png)
 
-Shader 4 - Toon shader with stylized shadow
-
+## Stylized Shadow Toon Shader
 ![](a4.png)
 
 # Assignment Description
