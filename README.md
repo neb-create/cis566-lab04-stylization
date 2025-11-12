@@ -4,13 +4,21 @@ I created 4 Shader graphs, each with the following effect:
 
 Shader 1 - 2-Color Toon
 
+![](a1.png)
+
 Shader 2 - 3-Color Toon
+
+![](a2.png)
 
 Shader 3 - 3-Color Toon with smoothness parameter
 
+![](a3.png)
+
 Shader 4 - Toon shader with stylized shadow
 
-# Lab 03 - Stylization!
+![](a4.png)
+
+# Assignment Description
 Let's practice adding stylization to a 3D scene using Unity's shader graph!
 
 ## Introduction
